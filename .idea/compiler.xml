@@ -19,6 +19,7 @@
         <module name="springcloud-eureka-server7001" />
         <module name="springcloud-consumerhystrix-dashboard-order9001" />
         <module name="springcloud-consumerfeign-hystrix-order80" />
+        <module name="springcloud-config-center3344" />
         <module name="springcloud-consumer-order80" />
         <module name="springcloud-consumerconsul-order80" />
         <module name="springcloud-provider-payment8002" />

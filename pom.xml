@@ -23,6 +23,7 @@
       <module>springcloud-consumerfeign-hystrix-order80</module>
       <module>springcloud-consumerhystrix-dashboard-order9001</module>
       <module>springcloud-gateway-gateway9527</module>
+      <module>springcloud-config-center3344</module>
   </modules>
   <packaging>pom</packaging>
 
