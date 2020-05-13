@@ -18,12 +18,12 @@
     <module>springcloud-consumerconsul-order80</module>
     <module>springcloud-providerzk-payment8004</module>
     <module>springcloud-providerconsul-payment8006</module>
-      <module>springcloud-consumerfeign-order80</module>
-      <module>springcloud-providerhystrix-payment8003</module>
-      <module>springcloud-consumerfeign-hystrix-order80</module>
-      <module>springcloud-consumerhystrix-dashboard-order9001</module>
-      <module>springcloud-gateway-gateway9527</module>
-      <module>springcloud-config-center3344</module>
+    <module>springcloud-consumerfeign-order80</module>
+    <module>springcloud-providerhystrix-payment8003</module>
+    <module>springcloud-consumerfeign-hystrix-order80</module>
+    <module>springcloud-consumerhystrix-dashboard-order9001</module>
+    <module>springcloud-gateway-gateway9527</module>
+    <module>springcloud-config-center3344</module>
   </modules>
   <packaging>pom</packaging>
 
