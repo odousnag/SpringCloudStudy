@@ -1,0 +1,25 @@
+server:
+  port: 8004
+
+# 服务别名
+spring:
+  application:
+    name: provider-payment-service
+  cloud:
+    # 设置 zookeeper 为注册中心
+    zookeeper:
+      connect-string: 192.168.233.128:2181
+  datasource:
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springcloud?useUnicode=true&charaterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    type: com.alibaba.druid.pool.DruidDataSource
+
+# 整合 mybatis
+mybatis:
+  type-aliases-package: com.he.entities
+  mapper-locations: classpath:mapper/*.xml
+
+
+

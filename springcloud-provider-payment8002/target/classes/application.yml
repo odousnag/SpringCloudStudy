@@ -1,0 +1,42 @@
+server:
+  port: 8002
+
+spring:
+  application:
+    name: provider-payment-service
+  datasource:
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springcloud?useUnicode=true&charaterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    type: com.alibaba.druid.pool.DruidDataSource
+
+# Eureka
+eureka:
+  client:
+    # 表示是否将自己注册到 EurekaServer
+    register-with-eureka: true
+    # 是否从 EurekaServer 抓取已有的注册信息
+    # 单节点无所谓，集群必须设置为 true 才能配合 ribbon 使用
+    fetch-registry: true
+    service-url:
+      # 单机版
+      # defaultZone: http://localhost:7001/eureka/
+      # 集群版
+      defaultZone: http://eureka7001.com:7001/eureka, http://eureka7002.com:7002/eureka
+  # 主机名称
+  instance:
+    instance-id: payment8002
+    # 访问路径可以显示 ip 地址
+    prefer-ip-address: true
+
+
+
+
+# 整合 mybatis
+mybatis:
+  type-aliases-package: com.he.entities
+  mapper-locations: classpath:mapper/*.xml
+
+
+
