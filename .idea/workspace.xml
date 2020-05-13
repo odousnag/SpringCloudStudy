@@ -4,7 +4,7 @@
     <list default="true" id="55987e66-ed6d-4ea7-800d-f7aabc4e920d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-config-center3344/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-center3344/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-center3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-center3344/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,10 +128,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TimeZone">
-    <configuration name="TimeZone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimeZone" />
-      <module name="springcloud-gateway-gateway9527" />
+  <component name="RunManager" selected="Spring Boot.EurekaServerMain7002">
+    <configuration name="ConfigCenterMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-center3344" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.he.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.ConfigCenterMain" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,6 +155,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurekaServerMain7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-eureka-server7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.he.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.EurekaServerMain7002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GateWayMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springcloud-gateway-gateway9527" />
       <extension name="coverage">
@@ -158,19 +177,6 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.GateWayMain" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-provider-payment8001" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.he.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.PaymentMain8001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -190,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConfigCenterMain" />
+        <item itemvalue="Spring Boot.EurekaServerMain7002" />
+        <item itemvalue="Spring Boot.EurekaServerMain7001" />
         <item itemvalue="Spring Boot.GateWayMain" />
         <item itemvalue="Spring Boot.PaymentMain8002" />
-        <item itemvalue="Spring Boot.EurekaServerMain7001" />
-        <item itemvalue="Application.TimeZone" />
-        <item itemvalue="Spring Boot.PaymentMain8001" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +213,11 @@
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
               <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@adb7fb29" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@adb7fb29" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@da8cd59d" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -234,8 +245,16 @@
       <workItem from="1588773672078" duration="36004000" />
       <workItem from="1588928749425" duration="33290000" />
       <workItem from="1589106341266" duration="1631000" />
-      <workItem from="1589164907978" duration="50263000" />
+      <workItem from="1589164907978" duration="54377000" />
     </task>
+    <task id="LOCAL-00001" summary="message">
+      <created>1589370535826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589370535827</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,5 +270,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="message" />
+    <option name="LAST_COMMIT_MESSAGE" value="message" />
   </component>
 </project>

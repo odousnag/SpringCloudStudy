@@ -22,6 +22,7 @@
         <module name="springcloud-config-center3344" />
         <module name="springcloud-consumer-order80" />
         <module name="springcloud-consumerconsul-order80" />
+        <module name="springcloud-config-client3355" />
         <module name="springcloud-provider-payment8002" />
       </profile>
     </annotationProcessing>

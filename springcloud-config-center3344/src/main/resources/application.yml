@@ -1,0 +1,27 @@
+server:
+  port: 3344
+
+spring:
+  application:
+    name: Config-center
+  cloud:
+    config:
+      server:
+        git:
+          # Github 上仓库的名字
+          uri: https://github.com/odousnag/SpringCloudStudy
+          # 搜索目录
+          # 然后就可以访问连接 https://github.com/odousnag/SpringCloudStudy/springcloud-config 下的文件
+          search-paths:
+            - springcloud-config
+      # 读取分支
+      label: master
+
+# Eureka
+eureka:
+  client:
+    service-url:
+      # 单机版
+      # defaultZone: http://localhost:7001/eureka/
+      # 集群版
+      defaultZone: http://eureka7001.com:7001/eureka, http://eureka7002.com:7002/eureka

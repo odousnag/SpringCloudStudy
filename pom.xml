@@ -24,6 +24,7 @@
     <module>springcloud-consumerhystrix-dashboard-order9001</module>
     <module>springcloud-gateway-gateway9527</module>
     <module>springcloud-config-center3344</module>
+      <module>springcloud-config-client3355</module>
   </modules>
   <packaging>pom</packaging>
 
