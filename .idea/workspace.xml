@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="55987e66-ed6d-4ea7-800d-f7aabc4e920d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-config-center3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-center3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3355/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3355/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -217,11 +216,6 @@
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
               <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@adb7fb29" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@da8cd59d" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@adb7fb29" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@1f577a84" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
           </expand>
@@ -245,7 +239,7 @@
       <workItem from="1588773672078" duration="36004000" />
       <workItem from="1588928749425" duration="33290000" />
       <workItem from="1589106341266" duration="1631000" />
-      <workItem from="1589164907978" duration="54377000" />
+      <workItem from="1589164907978" duration="56607000" />
     </task>
     <task id="LOCAL-00001" summary="message">
       <created>1589370535826</created>
@@ -254,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589370535827</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="message">
+      <created>1589375626407</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589375626407</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

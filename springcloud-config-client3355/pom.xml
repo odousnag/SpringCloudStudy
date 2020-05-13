@@ -12,6 +12,12 @@
     <artifactId>springcloud-config-client3355</artifactId>
 
     <dependencies>
+        <!-- spring-cloud-starter-config -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-config</artifactId>
+        </dependency>
+
         <!--引入自己的 jar 包-->
         <dependency>
             <groupId>SpringCloud</groupId>

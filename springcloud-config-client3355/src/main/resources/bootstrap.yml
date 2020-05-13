@@ -1,0 +1,26 @@
+server:
+  port: 3355
+
+spring:
+  application:
+    name: Config-client
+  cloud:
+    # Config 客户端配置
+    config:
+      # 读取分支
+      label: master
+      # 配置文件名称
+      name: config
+      # 读取名称后缀
+      profile: dev
+      # 配置中心地址
+      uri: http://localhost:3344
+
+# Eureka
+eureka:
+  client:
+    service-url:
+      # 单机版
+      # defaultZone: http://localhost:7001/eureka/
+      # 集群版
+      defaultZone: http://eureka7001.com:7001/eureka, http://eureka7002.com:7002/eureka
