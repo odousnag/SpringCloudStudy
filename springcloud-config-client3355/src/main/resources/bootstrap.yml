@@ -15,6 +15,14 @@ spring:
       profile: dev
       # 配置中心地址
       uri: http://localhost:3344
+  # rabbitmq 相关配置
+  rabbitmq:
+    host: localhost
+    port: 15672
+    username: guest
+    password: guset
+
+
 
 # Eureka
 eureka:

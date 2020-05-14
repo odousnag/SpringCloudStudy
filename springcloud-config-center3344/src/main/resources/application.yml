@@ -16,6 +16,21 @@ spring:
             - springcloud-config
       # 读取分支
       label: master
+  # rabbitmq 相关配置
+  rabbitmq:
+    host: localhost
+    port: 15672
+    username: guest
+    password: guset
+
+
+# rabbitmq 相关配置，暴露 bus 刷新配置的端点
+management:
+  endpoints:
+    # 暴露 bus 刷新配置的端点
+    web:
+      exposure:
+        include: 'bus-refresh'
 
 # Eureka
 eureka:
@@ -25,3 +40,4 @@ eureka:
       # defaultZone: http://localhost:7001/eureka/
       # 集群版
       defaultZone: http://eureka7001.com:7001/eureka, http://eureka7002.com:7002/eureka
+
