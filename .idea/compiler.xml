@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-providerhystrix-payment8003" />
+        <module name="springcloud-config-client3366" />
         <module name="springcloud-gateway-gateway9527" />
         <module name="springcloud-api-common" />
         <module name="springcloud-consumerfeign-order80" />
