@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springcloud-providerhystrix-payment8003" />
         <module name="springcloud-gateway-gateway9527" />
+        <module name="springcloud-api-common" />
         <module name="springcloud-consumerfeign-order80" />
         <module name="springcloud-consumerzk-order80" />
         <module name="springcloud-providerzk-payment8004" />
@@ -23,7 +24,6 @@
         <module name="springcloud-consumerconsul-order80" />
         <module name="springcloud-config-client3355" />
         <module name="springcloud-provider-payment8002" />
-        <module name="springcloud-api-common" />
       </profile>
     </annotationProcessing>
   </component>
