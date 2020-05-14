@@ -19,18 +19,9 @@ spring:
   # rabbitmq 相关配置
   rabbitmq:
     host: localhost
-    port: 15672
+    port: 5672
     username: guest
     password: guset
-
-
-# rabbitmq 相关配置，暴露 bus 刷新配置的端点
-management:
-  endpoints:
-    # 暴露 bus 刷新配置的端点
-    web:
-      exposure:
-        include: 'bus-refresh'
 
 # Eureka
 eureka:
@@ -41,3 +32,10 @@ eureka:
       # 集群版
       defaultZone: http://eureka7001.com:7001/eureka, http://eureka7002.com:7002/eureka
 
+# rabbitmq 相关配置，暴露 bus 刷新配置的端点
+management:
+  endpoints:
+    # 暴露 bus 刷新配置的端点
+    web:
+      exposure:
+        include: 'bus-refresh'

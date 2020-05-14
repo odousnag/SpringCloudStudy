@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="55987e66-ed6d-4ea7-800d-f7aabc4e920d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-config-center3344/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-center3344/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springcloud-config-center3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-center3344/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springcloud-config-center3344/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-center3344/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-config-client3355/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3355/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springcloud-config-client3355/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3355/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3355/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3355/target/classes/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springcloud-config-client3366/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3366/src/main/resources/bootstrap.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -201,8 +200,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConfigClientMain3355" />
         <item itemvalue="Spring Boot.ConfigCenterMain" />
+        <item itemvalue="Spring Boot.ConfigClientMain3355" />
         <item itemvalue="Spring Boot.EurekaServerMain7002" />
         <item itemvalue="Spring Boot.EurekaServerMain7001" />
         <item itemvalue="Spring Boot.GateWayMain" />
@@ -257,7 +256,7 @@
       <workItem from="1589106341266" duration="1631000" />
       <workItem from="1589164907978" duration="56607000" />
       <workItem from="1589381404553" duration="288000" />
-      <workItem from="1589422996792" duration="6144000" />
+      <workItem from="1589422996792" duration="7469000" />
     </task>
     <task id="LOCAL-00001" summary="message">
       <created>1589370535826</created>
@@ -301,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589444514601</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="message">
+      <created>1589446832513</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589446832513</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
