@@ -7,6 +7,7 @@
     <file url="file://$PROJECT_DIR$/springcloud-config-client3355" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-config-client3366" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumer-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-sleuth-order80" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumerconsul-order80" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumerfeign-hystrix-order80" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumerfeign-order80" charset="UTF-8" />
@@ -17,6 +18,7 @@
     <file url="file://$PROJECT_DIR$/springcloud-gateway-gateway9527" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-payment8001" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-provider-payment8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-provider-sleuth-payment8005" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-providerconsul-payment8006" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-providerhystrix-payment8003" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-providerzk-payment8004" charset="UTF-8" />

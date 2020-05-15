@@ -29,6 +29,7 @@ spring:
           # 设置消息类型，本次为为 json，文本则设置“text/plain”
           content-type: application/json
           binder: defaultRabbit
+          group: Consumer
 
 # Eureka
 eureka:
