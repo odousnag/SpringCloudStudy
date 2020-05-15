@@ -1,9 +1,9 @@
 server:
-  port: 8801
+  port: 8803
 
 spring:
   application:
-    name: stream-rabbitmq-provider
+    name: stream-rabbitmq-consumer
   cloud:
     stream:
       # 配置要绑定的 rabbitmq 的服务信息
@@ -23,7 +23,7 @@ spring:
       # 服务整合处理
       bindings:
         # 通道名称
-        output:
+        input:
           # 表示要使用的 Exchange 名称定义
           destination: studyExchange
           # 设置消息类型，本次为为 json，文本则设置“text/plain”
@@ -40,10 +40,10 @@ eureka:
       defaultZone: http://eureka7001.com:7001/eureka, http://eureka7002.com:7002/eureka
   instance:
     # 设置心跳的时间间隔（默认是30秒）
-    lease-renewal-interval-in-seconds: 2
+    lease-renewal-interval-in-seconds: 10
     # 如果现在超过了5秒的间隔（默认是90秒）
     lease-expiration-duration-in-seconds: 5
     # 在信息列表时显示主机名称
-    instance-id: send-8801.com
+    instance-id: receive-8803.com
     # 访问的路径变为 iP 地址
     prefer-ip-address: true

@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="55987e66-ed6d-4ea7-800d-f7aabc4e920d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-stream-rabbitmq-provider8801/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-stream-rabbitmq-provider8801/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8802/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8802/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8803/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8803/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-stream-rabbitmq-provider8801/src/main/java/com/he/service/impl/MessageProviderImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-stream-rabbitmq-provider8801/src/main/java/com/he/service/impl/MessageProviderImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-stream-rabbitmq-provider8801/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-stream-rabbitmq-provider8801/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-stream-rabbitmq-provider8801/target/classes/com/he/service/impl/MessageProviderImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-stream-rabbitmq-provider8801/target/classes/com/he/service/impl/MessageProviderImpl.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +88,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-config-client3366/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8803/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -104,11 +108,11 @@
       <recent name="com.he.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaTest\SpringCloud\springcloud-stream-rabbitmq-consumer8803\src\main\resources" />
+      <recent name="D:\javaTest\SpringCloud\springcloud-stream-rabbitmq-consumer8803\src\main\java" />
       <recent name="D:\javaTest\SpringCloud\springcloud-config-client3366\src\main\resources" />
       <recent name="D:\javaTest\SpringCloud\springcloud-config-client3366\src\main\java" />
       <recent name="D:\javaTest\SpringCloud\springcloud-gateway-gateway9527\src\main\resources" />
-      <recent name="D:\javaTest\SpringCloud\springcloud-consumerfeign-hystrix-order80\src\main\resources" />
-      <recent name="D:\javaTest\SpringCloud\springcloud-consumerfeign-hystrix-order80\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -128,46 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigClientMain3366">
-    <configuration name="ConfigCenterMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-config-center3344" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.he.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.ConfigCenterMain" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConfigClientMain3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-config-client3355" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.he.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.ConfigClientMain3355" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConfigClientMain3366" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-config-client3366" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.he.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.ConfigClientMain3366" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.StreamMqMain8803">
     <configuration name="EurekaServerMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springcloud-eureka-server7001" />
       <extension name="coverage">
@@ -194,11 +159,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamMqMain8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-stream-rabbitmq-provider8801" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.he.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.StreamMqMain8801" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMqMain8802" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-stream-rabbitmq-consumer8802" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.he.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.StreamMqMain8802" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMqMain8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-stream-rabbitmq-consumer8803" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.he.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.StreamMqMain8803" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ConfigClientMain3366" />
-        <item itemvalue="Spring Boot.ConfigClientMain3355" />
-        <item itemvalue="Spring Boot.ConfigCenterMain" />
+        <item itemvalue="Spring Boot.StreamMqMain8803" />
+        <item itemvalue="Spring Boot.StreamMqMain8802" />
+        <item itemvalue="Spring Boot.StreamMqMain8801" />
         <item itemvalue="Spring Boot.EurekaServerMain7002" />
         <item itemvalue="Spring Boot.EurekaServerMain7001" />
       </list>
@@ -213,6 +217,11 @@
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
               <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@9235b9c7" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@9235b9c7" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@66e87a7c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -242,7 +251,7 @@
       <workItem from="1589106341266" duration="1631000" />
       <workItem from="1589164907978" duration="56607000" />
       <workItem from="1589381404553" duration="288000" />
-      <workItem from="1589422996792" duration="15106000" />
+      <workItem from="1589422996792" duration="22071000" />
     </task>
     <task id="LOCAL-00001" summary="message">
       <created>1589370535826</created>
@@ -307,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589504061403</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="message">
+      <created>1589507571658</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589507571658</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
