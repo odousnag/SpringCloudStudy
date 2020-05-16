@@ -29,7 +29,9 @@
         <module name="springcloud-consumer-order80" />
         <module name="springcloud-provider-sleuth-payment8005" />
         <module name="springcloud-consumerconsul-order80" />
+        <module name="springcloud-provider-alibaba-payment9002" />
         <module name="springcloud-config-client3355" />
+        <module name="springcloud-consumer-alibaba-order80" />
         <module name="springcloud-eureka-server7001" />
       </profile>
     </annotationProcessing>

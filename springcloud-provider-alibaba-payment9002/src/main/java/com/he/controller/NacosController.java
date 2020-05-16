@@ -14,10 +14,10 @@ public class NacosController {
     @Value("${server.port}")
     private String serverPort;
 
-
-    @GetMapping(value = "/nacos")
-    public String echo() {
-        return "Hello Nacos Discovery，serverPort：" + serverPort;
+    public class EchoController {
+        @GetMapping(value = "/nacos")
+        public String echo() {
+            return "Hello Nacos Discovery，serverPort：" + serverPort;
+        }
     }
-
 }
