@@ -6,10 +6,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8802/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8802/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8802/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8802/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8803/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8803/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8803/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-stream-rabbitmq-consumer8803/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,9 +101,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.he.config" />
       <recent name="com.he.controller" />
       <recent name="com.he" />
-      <recent name="com.he.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\javaTest\SpringCloud\springcloud-consumer-sleuth-order80\src\main\resources" />
@@ -134,7 +130,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.StreamMqMain8803">
+  <component name="RunManager" selected="Spring Boot.NacosProviderMain9001">
     <configuration name="EurekaServerMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springcloud-eureka-server7001" />
       <extension name="coverage">
@@ -161,50 +157,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamMqMain8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-stream-rabbitmq-provider8801" />
+    <configuration name="NacosProviderMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-provider-alibaba-payment9001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.he.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.StreamMqMain8801" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.NacosProviderMain9001" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamMqMain8802" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-stream-rabbitmq-consumer8802" />
+    <configuration name="OrderSleuthMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-consumer-sleuth-order80" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.he.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.StreamMqMain8802" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.OrderSleuthMain" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamMqMain8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-stream-rabbitmq-consumer8803" />
+    <configuration name="PaymentMain8005" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-provider-sleuth-payment8005" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.he.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.StreamMqMain8803" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.PaymentMain8005" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.StreamMqMain8803" />
-        <item itemvalue="Spring Boot.StreamMqMain8802" />
-        <item itemvalue="Spring Boot.StreamMqMain8801" />
+        <item itemvalue="Spring Boot.NacosProviderMain9001" />
+        <item itemvalue="Spring Boot.OrderSleuthMain" />
+        <item itemvalue="Spring Boot.PaymentMain8005" />
         <item itemvalue="Spring Boot.EurekaServerMain7002" />
         <item itemvalue="Spring Boot.EurekaServerMain7001" />
       </list>
@@ -218,12 +214,7 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@9235b9c7" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@9235b9c7" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@e85cb94b" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@2d21e5c8" type="7427dc5b:ServiceModel$ServiceGroupNode" />
             </path>
           </expand>
           <select />
@@ -248,7 +239,8 @@
       <workItem from="1589106341266" duration="1631000" />
       <workItem from="1589164907978" duration="56607000" />
       <workItem from="1589381404553" duration="288000" />
-      <workItem from="1589422996792" duration="25990000" />
+      <workItem from="1589422996792" duration="28217000" />
+      <workItem from="1589615938119" duration="1770000" />
     </task>
     <task id="LOCAL-00001" summary="message">
       <created>1589370535826</created>
@@ -327,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589526059740</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="message">
+      <created>1589532589905</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589532589905</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

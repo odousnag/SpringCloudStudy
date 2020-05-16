@@ -24,13 +24,14 @@
     <module>springcloud-consumerhystrix-dashboard-order9001</module>
     <module>springcloud-gateway-gateway9527</module>
     <module>springcloud-config-center3344</module>
-      <module>springcloud-config-client3355</module>
-      <module>springcloud-config-client3366</module>
-      <module>springcloud-stream-rabbitmq-provider8801</module>
+    <module>springcloud-config-client3355</module>
+    <module>springcloud-config-client3366</module>
+    <module>springcloud-stream-rabbitmq-provider8801</module>
     <module>springcloud-stream-rabbitmq-consumer8802</module>
     <module>springcloud-stream-rabbitmq-consumer8803</module>
-      <module>springcloud-consumer-sleuth-order80</module>
+    <module>springcloud-consumer-sleuth-order80</module>
     <module>springcloud-provider-sleuth-payment8005</module>
+    <module>springcloud-provider-alibaba-payment9001</module>
   </modules>
   <packaging>pom</packaging>
 
