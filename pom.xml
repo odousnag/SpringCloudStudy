@@ -34,6 +34,7 @@
     <module>springcloud-provider-alibaba-payment9001</module>
       <module>springcloud-provider-alibaba-payment9002</module>
       <module>springcloud-consumer-alibaba-order80</module>
+      <module>springcloud-config-nacos-client3377</module>
   </modules>
   <packaging>pom</packaging>
 

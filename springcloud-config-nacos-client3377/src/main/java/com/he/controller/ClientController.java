@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * @author hewen
- * @RefreshScopee :支持nacos 动态刷新功能
  */
 
 @RestController
