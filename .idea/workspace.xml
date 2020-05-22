@@ -6,6 +6,37 @@
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-center3344/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-center3344/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-center3344/src/main/java/com/he/ConfigCenterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-center3344/src/main/java/com/he/ConfigCenterMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-center3344/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-center3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-center3344/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-center3344/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-center3344/target/classes/com/he/ConfigCenterMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-center3344/target/classes/com/he/ConfigCenterMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3355/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3355/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3355/src/main/java/com/he/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3355/src/main/java/com/he/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3355/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3355/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3355/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3355/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3355/target/classes/com/he/controller/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3355/target/classes/com/he/controller/ClientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3366/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3366/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3366/src/main/java/com/he/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3366/src/main/java/com/he/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3366/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3366/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3366/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3366/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-client3366/target/classes/com/he/controller/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-client3366/target/classes/com/he/controller/ClientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-nacos-client3377/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-nacos-client3377/src/main/java/com/he/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/src/main/java/com/he/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-nacos-client3377/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-nacos-client3377/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config-nacos-client3377/target/classes/com/he/controller/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config-nacos-client3377/target/classes/com/he/controller/ClientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-config/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-config/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-consumer-order80/src/main/java/com/he/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-order80/src/main/java/com/he/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-consumer-order80/target/classes/com/he/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-consumer-order80/target/classes/com/he/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-gateway-gateway9527/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-gateway-gateway9527/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-gateway-gateway9527/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-gateway-gateway9527/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment8001/src/main/java/com/he/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-provider-payment8001/src/main/java/com/he/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment8001/target/classes/com/he/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-provider-payment8001/target/classes/com/he/controller/PaymentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment8002/src/main/java/com/he/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-provider-payment8002/src/main/java/com/he/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-provider-payment8002/target/classes/com/he/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-provider-payment8002/target/classes/com/he/controller/PaymentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-providerhystrix-payment8003/src/main/java/com/he/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-providerhystrix-payment8003/src/main/java/com/he/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud-providerhystrix-payment8003/target/classes/com/he/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud-providerhystrix-payment8003/target/classes/com/he/controller/PaymentController.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +101,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-provider-sentinel-ribbon-payment9004/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud-consumer-nacos-order80/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -85,18 +116,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.he" />
+      <recent name="controller" />
+      <recent name="config" />
       <recent name="com.he.dao" />
       <recent name="com.he.controller" />
-      <recent name="com.he" />
-      <recent name="" />
-      <recent name="com.he.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaTest\SpringCloud\springcloud-consumer-nacos-order80\src\main\resources" />
+      <recent name="D:\javaTest\SpringCloud\springcloud-consumer-nacos-order80\src\main\java" />
       <recent name="D:\javaTest\SpringCloud\springcloud-provider-sentinel-ribbon-payment9004\src\main\resources" />
       <recent name="D:\javaTest\SpringCloud\springcloud-provider-sentinel-ribbon-payment9004\src\main\java\com\he" />
       <recent name="D:\javaTest\SpringCloud\springcloud-provider-sentinel-ribbon-payment9003\src\main\resources" />
-      <recent name="D:\javaTest\SpringCloud\springcloud-provider-sentinel-ribbon-payment9003\src\main\java\com\he" />
-      <recent name="D:\javaTest\SpringCloud\springcloud-provider-alibaba-payment9002\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -116,20 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SentinelRibbonProviderMain9003">
-    <configuration name="NacosClientMain3377" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-config-nacos-client3377" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.he.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.NacosClientMain3377" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.OrderSentinelMain80">
     <configuration name="NacosProviderMain9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springcloud-provider-alibaba-payment9002" />
       <extension name="coverage">
@@ -143,15 +161,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderNacosMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud-consumer-alibaba-order80" />
+    <configuration name="OrderSentinelMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-consumer-nacos-order80" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.he.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.OrderNacosMain80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.OrderSentinelMain80" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -182,13 +200,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SentinelRibbonProviderMain9004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-provider-sentinel-ribbon-payment9004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.he.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.he.SentinelRibbonProviderMain9004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.OrderSentinelMain80" />
+        <item itemvalue="Spring Boot.SentinelRibbonProviderMain9004" />
         <item itemvalue="Spring Boot.SentinelRibbonProviderMain9003" />
         <item itemvalue="Spring Boot.SentinelMain8401" />
         <item itemvalue="Spring Boot.NacosProviderMain9002" />
-        <item itemvalue="Spring Boot.NacosClientMain3377" />
-        <item itemvalue="Spring Boot.OrderNacosMain80" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +276,7 @@
       <workItem from="1590028899143" duration="6519000" />
       <workItem from="1590063706445" duration="3108000" />
       <workItem from="1590074023065" duration="616000" />
-      <workItem from="1590111761096" duration="8114000" />
+      <workItem from="1590111761096" duration="12648000" />
     </task>
     <task id="LOCAL-00001" summary="message">
       <created>1589370535826</created>
@@ -373,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590133164236</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="message">
+      <created>1590137979862</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590137979862</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

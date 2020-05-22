@@ -8,6 +8,7 @@
     <file url="file://$PROJECT_DIR$/springcloud-config-client3366" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-config-nacos-client3377" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumer-alibaba-order80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud-consumer-nacos-order80" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumer-order80" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumer-sleuth-order80" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud-consumerconsul-order80" charset="UTF-8" />

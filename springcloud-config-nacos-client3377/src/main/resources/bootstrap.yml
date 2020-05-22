@@ -4,7 +4,7 @@ server:
 
 spring:
   application:
-    name: nacos-config-client
+    name: nacos-com.he.config-client
   cloud:
     nacos:
       # 服务注册中心地址

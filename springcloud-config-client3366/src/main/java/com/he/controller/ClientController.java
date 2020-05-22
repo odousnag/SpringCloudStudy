@@ -16,7 +16,7 @@ public class ClientController {
     /**
      * 获取application-dev的信息
      */
-    @Value("${config.info}")
+    @Value("${com.he.config.info}")
     private String configInfo;
 
     @GetMapping("/configInfo")

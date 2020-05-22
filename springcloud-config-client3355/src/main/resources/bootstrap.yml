@@ -10,7 +10,7 @@ spring:
       # 读取分支
       label: master
       # 配置文件名称
-      name: config
+      name: com.he.config
       # 读取名称后缀
       profile: dev
       # 配置中心地址

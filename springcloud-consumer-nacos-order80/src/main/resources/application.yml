@@ -1,0 +1,20 @@
+server:
+  port: 80
+
+spring:
+  application:
+    name: nacos-consumer-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    sentinel:
+      transport:
+        # sentinel dashboard地址
+        dashboard: localhost:8080
+        # 默认端口 8719 假如被占用则会从 8719 开始依次扫描递增，直到找到未占用的端口
+        port: 8719
+
+# 消费者将要去访问的微服务名称（注册成功进 nacos的微服务提供者）
+service-url:
+  nacos-user-service: http://nacos-provider

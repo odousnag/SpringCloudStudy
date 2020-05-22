@@ -9,13 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>springcloud-config-client3366</artifactId>
+    <artifactId>springcloud-com.he.config-client3366</artifactId>
 
     <dependencies>
-        <!-- spring-cloud-starter-config -->
+        <!-- config-server -->
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-config</artifactId>
+            <artifactId>spring-cloud-config-server</artifactId>
         </dependency>
 
         <!--引入自己的 jar 包-->

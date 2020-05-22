@@ -32,12 +32,13 @@
     <module>springcloud-consumer-sleuth-order80</module>
     <module>springcloud-provider-sleuth-payment8005</module>
     <module>springcloud-provider-alibaba-payment9001</module>
-      <module>springcloud-provider-alibaba-payment9002</module>
-      <module>springcloud-consumer-alibaba-order80</module>
-      <module>springcloud-config-nacos-client3377</module>
-      <module>springcloud-sentinel-server8401</module>
-      <module>springcloud-provider-sentinel-ribbon-payment9003</module>
+    <module>springcloud-provider-alibaba-payment9002</module>
+    <module>springcloud-consumer-alibaba-order80</module>
+    <module>springcloud-config-nacos-client3377</module>
+    <module>springcloud-sentinel-server8401</module>
+    <module>springcloud-provider-sentinel-ribbon-payment9003</module>
     <module>springcloud-provider-sentinel-ribbon-payment9004</module>
+    <module>springcloud-consumer-nacos-order80</module>
   </modules>
   <packaging>pom</packaging>
 

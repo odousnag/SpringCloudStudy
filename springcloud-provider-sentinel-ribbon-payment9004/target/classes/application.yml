@@ -1,0 +1,30 @@
+server:
+  port: 9004
+
+spring:
+  application:
+    name: nacos-provider
+  cloud:
+    nacos:
+      discovery:
+        # 配置 Nacos 地址
+        server-addr: localhost:8848
+
+  datasource:
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springcloud?useUnicode=true&charaterEncoding=utf-8&serverTimezone=Asia/Shanghai
+    type: com.alibaba.druid.pool.DruidDataSource
+
+# 暴露服务
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+# 整合 mybatis
+mybatis:
+  type-aliases-package: com.he.entities
+  mapper-locations: classpath:mapper/*.xml

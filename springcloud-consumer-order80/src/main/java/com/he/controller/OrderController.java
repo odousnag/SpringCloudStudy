@@ -70,7 +70,7 @@ public class OrderController {
         }
     }
 
-    @GetMapping(value = "/consumer/payment/lb")
+    @GetMapping(value = "/consumer/payment/com.he.lb")
     public String getLB(){
         // 微服务名称下的具体实例
         List<ServiceInstance> instances = discoveryClient.getInstances("PROVIDER-PAYMENT-SERVICE");
@@ -79,7 +79,7 @@ public class OrderController {
         ServiceInstance serviceInstance = loadBalancer.instances(instances);
         URI uri = serviceInstance.getUri();
 
-        return restTemplate.getForObject(uri + "/payment/lb", String.class);
+        return restTemplate.getForObject(uri + "/payment/com.he.lb", String.class);
     }
 
 }

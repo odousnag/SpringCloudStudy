@@ -13,7 +13,7 @@ spring:
           # 搜索目录
           # 然后就可以访问连接 https://github.com/odousnag/SpringCloudStudy/springcloud-config 下的文件
           search-paths:
-            - springcloud-config
+            - springcloud-com.he.config
       # 读取分支
       label: master
   # rabbitmq 相关配置

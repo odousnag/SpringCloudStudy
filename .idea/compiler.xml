@@ -36,6 +36,7 @@
         <module name="springcloud-stream-rabbitmq-consumer8802" />
         <module name="springcloud-eureka-server7002" />
         <module name="springcloud-eureka-server7001" />
+        <module name="springcloud-consumer-nacos-order80" />
         <module name="springcloud-consumerfeign-order80" />
       </profile>
     </annotationProcessing>

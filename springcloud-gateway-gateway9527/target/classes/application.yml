@@ -16,14 +16,14 @@ spring:
         # 匹配后提供服务的路由地址
         # uri: http://localhost:8001 不能写死
         # 匹配 服务端 的路由地址，就是微服务名
-          uri: lb://provider-payment-service
+          uri: com.he.lb://provider-payment-service
         # 断言，路径相匹配的进行路由
         # 配置服务端的方法路径
           predicates:
-            - Path=/payment/lb/**
+            - Path=/payment/com.he.lb/**
 
         - id: payment-route2
-          uri: lb://provider-payment-service
+          uri: com.he.lb://provider-payment-service
           predicates:
             - Path=/payment/query/**
 

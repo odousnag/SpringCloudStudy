@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>springcloud-config-center3344</artifactId>
+    <artifactId>springcloud-com.he.config-center3344</artifactId>
 
     <dependencies>
         <!-- config-server -->
