@@ -36,6 +36,8 @@
       <module>springcloud-consumer-alibaba-order80</module>
       <module>springcloud-config-nacos-client3377</module>
       <module>springcloud-sentinel-server8401</module>
+      <module>springcloud-provider-sentinel-ribbon-payment9003</module>
+    <module>springcloud-provider-sentinel-ribbon-payment9004</module>
   </modules>
   <packaging>pom</packaging>
 
